@@ -66,7 +66,7 @@ form {
 
 .search-result-image img {
   width: 100%;
-  height: 100%;
+  height: 220px;
   object-fit: cover;
   transition: opacity 0.2s ease-in-out;
 }
