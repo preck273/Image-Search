@@ -91,7 +91,7 @@ form {
   border: none;
   padding: 10px 20px;
   text-align: center;
-  display: block;
+  display: none;
   margin: 30px auto;
   border-radius: 5px;
   cursor: pointer;
